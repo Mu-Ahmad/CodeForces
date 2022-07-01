@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Decrease the Sum of Digits
+Link: https://codeforces.com/contest/1409/problem/D
