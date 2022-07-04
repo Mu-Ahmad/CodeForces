@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Binary String To Subsequences
+Link: https://codeforces.com/contest/1399/problem/D
