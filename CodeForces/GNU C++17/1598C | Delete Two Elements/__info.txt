@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Delete Two Elements
+Link: https://codeforces.com/contest/1598/problem/C
