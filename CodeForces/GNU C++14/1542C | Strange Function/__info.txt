@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Strange Function
+Link: https://codeforces.com/contest/1542/problem/C
