@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Omkar and Baseball
+Link: https://codeforces.com/contest/1372/problem/C
