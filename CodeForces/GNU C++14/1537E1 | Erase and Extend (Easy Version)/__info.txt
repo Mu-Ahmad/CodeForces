@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Erase and Extend (Easy Version)
+Link: https://codeforces.com/contest/1537/problem/E1
