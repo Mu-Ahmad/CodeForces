@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Set or Decrease
+Link: https://codeforces.com/contest/1622/problem/C
