@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Product 1 Modulo N
+Link: https://codeforces.com/contest/1514/problem/C
