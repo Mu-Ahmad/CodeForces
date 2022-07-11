@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Balanced Stone Heaps
+Link: https://codeforces.com/contest/1623/problem/C
