@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Say No to Palindromes
+Link: https://codeforces.com/contest/1555/problem/D
