@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Good Subarrays
+Link: https://codeforces.com/contest/1398/problem/C
