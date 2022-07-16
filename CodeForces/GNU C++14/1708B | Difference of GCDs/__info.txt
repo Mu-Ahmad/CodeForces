@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Difference of GCDs
+Link: https://codeforces.com/contest/1708/problem/B
