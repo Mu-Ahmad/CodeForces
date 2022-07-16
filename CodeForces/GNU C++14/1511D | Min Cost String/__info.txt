@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Min Cost String
+Link: https://codeforces.com/contest/1511/problem/D
