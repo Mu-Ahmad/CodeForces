@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Doremy's IQ
+Link: https://codeforces.com/contest/1708/problem/C
