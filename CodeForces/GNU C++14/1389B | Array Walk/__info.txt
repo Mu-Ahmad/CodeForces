@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Array Walk
+Link: https://codeforces.com/contest/1389/problem/B
