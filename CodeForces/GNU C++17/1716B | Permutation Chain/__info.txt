@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Permutation Chain
+Link: https://codeforces.com/contest/1716/problem/B
