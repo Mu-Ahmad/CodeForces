@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Compression and Expansion
+Link: https://codeforces.com/contest/1523/problem/C
