@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Guess the K-th Zero (Easy version)
+Link: https://codeforces.com/contest/1520/problem/F1
