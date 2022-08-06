@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Monsters And Spells
+Link: https://codeforces.com/contest/1626/problem/C
