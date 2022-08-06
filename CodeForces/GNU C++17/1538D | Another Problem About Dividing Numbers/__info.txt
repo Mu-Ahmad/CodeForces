@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Another Problem About Dividing Numbers
+Link: https://codeforces.com/contest/1538/problem/D
