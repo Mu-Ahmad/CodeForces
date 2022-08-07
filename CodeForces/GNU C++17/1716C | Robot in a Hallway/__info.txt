@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Robot in a Hallway
+Link: https://codeforces.com/contest/1716/problem/C
