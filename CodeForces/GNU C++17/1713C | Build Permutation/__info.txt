@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Build Permutation
+Link: https://codeforces.com/contest/1713/problem/C
