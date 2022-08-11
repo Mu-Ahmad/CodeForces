@@ -1,0 +1,4 @@
+# Following is the link to problem
+
+Problem: Peculiar Movie Preferences
+Link: https://codeforces.com/contest/1629/problem/D
